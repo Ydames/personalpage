@@ -1,0 +1,124 @@
+.img1 {
+	
+	width:140;
+    height:190;
+	margin: auto;
+	display: block;
+	margin-top:30;
+	margin-bottom:50;
+}
+
+.imgr {
+	
+	width:32;
+    height:32;
+	margin: left;
+	float: left;
+	margin: 0 10px 15px 0;
+}
+
+.infp {
+	
+	color:FFFFFF;
+	font-family:Arial, sans-serif;
+	font-size: 26px;
+	font-weight:70;
+
+}
+
+.policep {
+	
+	color:FFFFFF;
+	font-family:Arial, sans-serif;
+	font-size: 19px;
+	
+}
+
+
+
+.divborder{
+	
+	margin: 0 225 auto 0;
+	background-color: #494e5f;
+	height:1650;
+	width:350;
+	float:left;
+	
+}
+
+.resizediv {
+	
+	margin: 20 5 auto 27;
+	height:1900;
+	width:320;
+	
+}
+
+.divbody{
+	
+	margin-left:350;  
+	height:1640;
+	width:850;
+	
+}
+
+.name {
+	
+	color:000000;
+	font-family:Arial, sans-serif;
+	font-size: 26px;
+	text-align:left;
+	
+}
+
+.imgr2 {
+	
+	width:54;
+    height:32;
+	margin: left;
+	float: left;
+	margin: 0 15px 0px 0;
+}
+
+.policep2 {
+	
+	color:000000;
+	font-family:Arial, sans-serif;
+	font-size: 19px;
+	
+}
+
+.titrebody {
+	
+	color:000000;
+	font-family:Arial, sans-serif;
+	font-size: 21px;
+	
+}
+
+.litetitrebody {
+	
+	color:000000;
+	font-family:Arial, sans-serif;
+	font-size: 19px;
+	text-decoration:GrayText;
+	
+}
+
+.litetitrebody {
+	
+	color:000000;
+	font-family:Arial, sans-serif;
+	font-size: 19px;
+	font-weight: bold;
+	
+}
+
+.bigtitrebody {
+	
+	color:000000;
+	font-family:Arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	
+}
